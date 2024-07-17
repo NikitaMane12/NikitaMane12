@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manenikita2212@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hUD-L4lh6JDI8t7Q7gOdbKemHVDt-hF7/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-xkYSLshtNEnslhAUrdtq5WvImAJcQcO/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
