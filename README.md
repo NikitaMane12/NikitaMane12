@@ -56,7 +56,7 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMane12&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NikitaMane12&theme=rogue" alt="activitygraph" /> </p>
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NikitaMane12&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaMane12&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NikitaMane12&no-frame=true" alt=""/></p>
